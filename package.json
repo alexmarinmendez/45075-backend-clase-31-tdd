@@ -1,0 +1,16 @@
+{
+  "name": "45075-backend-tdd-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/suma.test.manual.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
